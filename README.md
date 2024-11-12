@@ -3,7 +3,7 @@
 <!-- Brief Description -->
 - 🎓 BSc in Computer Engineering @ [ISEP](https://www.isep.ipp.pt/)
 - 📚 Currently pursuing MSc in Software Engineering @ [ISEP](https://www.isep.ipp.pt/) (1st year)
-- 💼 Working as a Junior Software Engineer @ [Novaforensic](https://www.novaforensics.com/)
+- 💼 Working as a Junior Software Engineer @ [Novaforensic](https://www.novaforensic.com/)
 - 🎵 Music Production and 💪 Gym enthusiast
 <br>
 
