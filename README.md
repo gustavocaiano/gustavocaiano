@@ -35,7 +35,7 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 <!--- Github Stats --->
-<!-- ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gustavocaiano&theme=dark&include_all_commits=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavocaiano&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gustavocaiano&theme=dark&include_all_commits=true&count_private=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavocaiano&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
  uncomment when deployed vercel app with private repo information -->
 
