@@ -33,9 +33,12 @@
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![UML](https://img.shields.io/badge/uml-%23F05033.svg?style=for-the-badge&logo=uml&logoColor=white)
 
 <!--- Github Stats --->
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gustavocaiano&theme=dark&include_all_commits=true&count_private=true)
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavocaiano&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
- uncomment when deployed vercel app with private repo information -->
+<!-- ![Gustavo's GitHub stats](https://github-readme-stats-git-master-gustavocaianos-projects.vercel.app/api?username=gustavocaiano&show_icons=true&theme=dark) -->
+ <!-- uncomment when deployed vercel app with private repo information -->
+ 
 
