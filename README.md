@@ -5,14 +5,12 @@
 - 📚 Currently pursuing MSc in Software Engineering @ [ISEP](https://www.isep.ipp.pt/) (1st year)
 - 💼 Working as a Junior Software Engineer @ [Novaforensic](https://www.novaforensic.com/)
 - 🎵 Music Production and 💪 Gym enthusiast
-<br>
+---
+#### Contact me: 
+  - gustavocaiano@outlook.com 
+  - [@giviyoumadethis](https://instagram.com/giviyoumadethis)
+---
 
-<!--- Languages and tools --->
-##  Languages and tools
-
-### OS 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Languages, Frameworks & Tools
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -35,6 +33,10 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![UML](https://img.shields.io/badge/uml-%23F05033.svg?style=for-the-badge&logo=uml&logoColor=white)
+
+#### OS 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <!--- Github Stats --->
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gustavocaiano&theme=dark&include_all_commits=true&count_private=true)
