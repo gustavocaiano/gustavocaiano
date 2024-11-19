@@ -37,7 +37,7 @@
 #### OS 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+---
 <!--- Github Stats --->
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gustavocaiano&theme=dark&include_all_commits=true&count_private=true)
 <!-- ![Gustavo's GitHub stats](https://github-readme-stats-git-master-gustavocaianos-projects.vercel.app/api?username=gustavocaiano&show_icons=true&theme=dark) -->
