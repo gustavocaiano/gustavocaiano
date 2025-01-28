@@ -6,9 +6,9 @@
 - 💼 Working as a Junior Software Engineer @ [Novaforensic](https://www.novaforensic.com/)
 - 🎵 Music Production and 💪 Gym enthusiast
 ---
-#### Contact me: 
-  - gustavocaiano@outlook.com 
-  - [@giviyoumadethis](https://instagram.com/giviyoumadethis)
+#### Contacts: 
+  - email gustavocaiano@outlook.com 
+  - ig [@giviyoumadethis](https://instagram.com/giviyoumadethis)
 ---
 
 
