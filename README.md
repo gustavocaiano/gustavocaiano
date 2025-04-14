@@ -9,7 +9,7 @@
 #### Contacts: 
   - email gustavocaiano@outlook.com 
   - ig [@giviyoumadethis](https://instagram.com/giviyoumadethis)
-  - [landing page](https:/gustavocaiano.github.io)
+  - [landing page](https://gustavocaiano.github.io)
 ---
 
 
