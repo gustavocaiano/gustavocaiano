@@ -2,7 +2,7 @@
 
 <!-- Brief Description -->
 - 🎓 BSc in Computer Engineering @ [ISEP](https://www.isep.ipp.pt/)
-- 📚 MSc in Software Engineering @ [ISEP](https://www.isep.ipp.pt/) – 1st Year
+- 📚 MSc in Software Engineering @ [ISEP](https://www.isep.ipp.pt/) – Last Year
 - 💼 Junior Software Engineer @ [Novaforensic](https://www.novaforensic.com/)
 - 🎵 Music Production and 💪 Gym enthusiast
 
