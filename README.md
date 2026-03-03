@@ -11,7 +11,7 @@
 #### 📬 Contacts: 
 - 📧 Email: gustavocaiano@outlook.com  
 - 📸 IG: [@giviyoumadethis](https://instagram.com/giviyoumadethis)  
-- 🌍 [Landing Page](https://gustavocaiano.github.io)
+- 🌍 [Landing Page](https://www.gcaiano.xyz)
 
 ---
 
